@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "vsoft"]
+	url = https://github.com/vsoftcorp/caDbConnector.git
+	fetch = +refs/heads/*:refs/remotes/vsoft/*
+[branch "vsoft"]
+	remote = vsoft
+	merge = refs/heads/vsoft
+[remote "origin"]
+	url = https://github.com/dhf0820/caDbConnector.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = master
+	merge = refs/heads/master
