@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 d375f7c0f6084aa0d14cb87651ab39982c76aa27 Don French <dhfrench@vertisoft.com> 1646275057 -0800	commit (initial): Initial transfer from cadatabase
-d375f7c0f6084aa0d14cb87651ab39982c76aa27 25e9375e1e6336fb61b1db341c2ea95b9d756194 Don French <dhfrench@vertisoft.com> 1646283507 -0800	commit: Initial healthcheck
-25e9375e1e6336fb61b1db341c2ea95b9d756194 2147d29280c3fd64e9087f15932ecaf23f9b8db9 Don French <dhfrench@vertisoft.com> 1646631160 -0800	commit: GetFhirDocument works
-2147d29280c3fd64e9087f15932ecaf23f9b8db9 c13eadb0ea72e5987448e9bbec8e6a7dd9cc004f Don French <dhfrench@vertisoft.com> 1646678515 -0800	commit: Moved to dhf0820

@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/lib/pq"
-	//pat "github.com/dhf0820/caDbConnector/patient"
-	// vis "github.com/dhf0820/caDbConnectorvisit"
+	//pat "github.com/dhf0820/caPgConnector/patient"
+	// vis "github.com/dhf0820/caPgConnectorvisit"
 )
 
 type ArchivedImage struct {
